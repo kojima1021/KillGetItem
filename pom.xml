@@ -4,7 +4,7 @@
 
   <groupId>net.mcmmorpg-server.kojima1021</groupId>
   <artifactId>KillGetItem</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.2-Dev</version>
   <packaging>jar</packaging>
 
   <name>KillIGetItem</name>

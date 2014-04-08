@@ -1,5 +1,5 @@
 name: KillItemGet
-version: 1.0.0
+version: 0.0.2
 author: kojima1021
 website: http://wiki.mcmmorpg-server.net
 main: net.mcmmorpg.server.kojima1021.KillGetItem.KillGetItem
